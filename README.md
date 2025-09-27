@@ -1,12 +1,15 @@
 ## Ejercicio 2.4: Prueba figuras
 Developed in java using Visual Studio 
 ## Integrantes:
-Sofía Uribe García
-Elena Arango Durango
-Esteban Agudelo Rincón
+
+- Sofía Uribe García
+- Elena Arango Durango
+- Esteban Agudelo Rincón
 
 Universidad Nacional de Colombia Sede Medellin
+
 Facultad de minas
+
 Walter Hugo Arboleda Mazo
 
 
