@@ -1,6 +1,14 @@
-## Getting Started
+## Ejercicio 2.4: Prueba figuras
+Developed in java using Visual Studio 
+## Integrantes:
+Sofía Uribe García
+Elena Arango Durango
+Esteban Agudelo Rincón
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Universidad Nacional de Colombia Sede Medellin
+Facultad de minas
+Walter Hugo Arboleda Mazo
+
 
 ## Folder Structure
 
